@@ -39,7 +39,7 @@
 
 <div style={justify-content: center;}>
 
-<img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="EPIC GAME" width="100" height="50" margin-right="50" title="EPIC GAME"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="STEAM" width="100" height="50" margin-right="50" title="STEAM">
+<img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="EPIC GAME" width="100" height="30" margin-right="50" title="EPIC GAME"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="STEAM" width="100" height="30" margin-right="50" title="STEAM">
 
 </div>
 
@@ -49,7 +49,7 @@
 
 <div style={justify-content: center;}>
 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="DISCORD" width="100" height="50" margin-right="50" title="DISCORD"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="SLACK" width="100" height="50" margin-right="50" title="SLACK">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="DISCORD" width="100" height="30" margin-right="50" title="DISCORD"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="SLACK" width="100" height="30" margin-right="50" title="SLACK">
 
 </div>
 
@@ -59,18 +59,9 @@
 
 <div style={justify-content: center;}>
 
-<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="SEQUELIZE" width="100" height="50" margin-right="50" title="SEQUELIZE">
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="SEQUELIZE" width="100" height="30" margin-right="50" title="SEQUELIZE">
 
 </div>
 
 <br>
 
-### Github Profile Summary Card 💳
-
-<div style={justify-content: center;}>
-
-<img https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={MathieuNOEL}&theme=vue alt="summary" width="600" height="200" margin-right="50" title="summary">
-
-</div>
-
-<br>
