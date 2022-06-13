@@ -7,7 +7,7 @@
 
 <div align=center> 
   
-<a href=https://www.linkedin.com/in/www.linkedin.com/in/mathieu-noel-168227231/>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href=mailto:yzorien@gmail.com>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a href="https://twitter.com/MathieuNoeldev"> [twitter]twitter/url?url=https%3A%2F%2Fshields.io</a>
+<a href=https://www.linkedin.com/in/www.linkedin.com/in/mathieu-noel-168227231/>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href=mailto:yzorien@gmail.com>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a href="https://twitter.com/MathieuNoeldev">! [twitter](twitter/url?url=https%3A%2F%2Fshields.io)</a>
 
 </div>
   
