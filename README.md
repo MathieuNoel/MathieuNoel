@@ -7,7 +7,7 @@
 
 <div align=center> 
   
-<a href=https://www.linkedin.com/in/www.linkedin.com/in/mathieu-noel-168227231/>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href=mailto:yzorien@gmail.com>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href=https://twitter.com/MathieuNoeldev>![Tweetter](https://img.shields.io/badge/Twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=blue)</a>
+<a href=https://www.linkedin.com/in/www.linkedin.com/in/mathieu-noel-168227231/>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href=mailto:yzorien@gmail.com>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href=https://twitter.com/MathieuNoeldev>![Tweetter](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue)</a>
 
 </div>
   
@@ -33,4 +33,4 @@
 
 ### My current projects 🔧  
 
-<a href=https://github.com/MathieuNoel/> ![no1 atm](https://img.shields.io/badge/csv_to_pdf-%230077B5.svg?style=for-the-badge) </a>  
+<a href=https://github.com/MathieuNoel/> ![no1 atm](https://img.shields.io/badge/no1_atm-%230077B5.svg?style=for-the-badge) </a>  
