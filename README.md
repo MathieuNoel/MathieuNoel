@@ -34,3 +34,33 @@
 ### My current projects 🔧  
 
 <a href=https://github.com/MathieuNoel/> ![no1 atm](https://img.shields.io/badge/no1_atm-%230077B5.svg?style=for-the-badge) </a>  
+
+### My favorit gaming's plateforms 🎮
+
+<div style={justify-content: center;}>
+
+<img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="EPIC GAME" width="50" height="50" margin-right="50" title="EPIC GAME"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="STEAM" width="50" height="50" margin-right="50" title="STEAM">
+
+</div>
+
+<br>
+
+### My favorit Groupe 🤜
+
+<div style={justify-content: center;}>
+
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="DISCORD" width="50" height="50" margin-right="50" title="DISCORD"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="SLACK" width="50" height="50" margin-right="50" title="SLACK">
+
+</div>
+
+<br>
+
+### My ORM ⚙️
+
+<div style={justify-content: center;}>
+
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="SEQUELIZE" width="50" height="50" margin-right="50" title="SEQUELIZE">
+
+</div>
+
+<br>
