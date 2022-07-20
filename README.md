@@ -72,7 +72,7 @@
 
 <div style={justify-content: center;}>
 
-<img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="linux" width="50" height="50" margin-right="50" title="linux"><img src="https://cdn.svgporn.com/logos/ubuntu.svg" alt="ubuntu" width="50"  height="50" padding="5" title="ubuntu"><img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode" width="50" height="50" padding="5" title="vscode"><img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" width="50" height="50" padding="5" title="git"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" width="50" height="50" padding="5" title="windows">
+<img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="linux" width="50" height="50" margin-right="50" title="linux"><img src="https://cdn.svgporn.com/logos/ubuntu.svg" alt="ubuntu" width="50"  height="50" padding="5" title="ubuntu"><img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode" width="50" height="50" padding="5" title="vscode"><img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" width="50" height="50" padding="5" title="git"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" width="120" height="50" padding="5" title="windows">
   
 </div>
  
@@ -107,14 +107,3 @@
 </div>
 
 <br>
-
-### My ORM ⚙️
-
-<div style={justify-content: center;}>
-
-<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="SEQUELIZE" width="100" height="30" margin-right="50" title="SEQUELIZE">
-
-</div>
-
-<br>
-
