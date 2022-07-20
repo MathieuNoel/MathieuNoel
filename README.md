@@ -14,13 +14,13 @@
 
 ### My programmation langage
 
-<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="js" width="50" height="50" title="js"><img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html" width="50" height="50" title="html"><img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css" width="50" height="50" title="css"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" width="120" height="50" title="Markdown">
+<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="js" width="50" height="50" title="js"><img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html" width="50" height="50" title="html"><img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css" width="50" height="50" title="css"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" width="120" height="30" title="Markdown"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhRuEb6cCtyNk7Vv43pFbJlBL8pBC3IPrsvA&usqp=CAU" alt="RexEx" width="120" height="30" title="RexEx">
 
 <br> 
 
 ### My framwork 
 
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP" width="120" height="50" title="BOOTSTRAP"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="EXPRESS" width="120" height="50" title="EXPRESS"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger" width="120" height="50" title="Swagger"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" width="120" height="50" title="Jest">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP" width="120" height="30" title="BOOTSTRAP"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="EXPRESS" width="120" height="30" title="EXPRESS"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger" width="120" height="30" title="Swagger"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" width="120" height="30" title="Jest">
 
 <br> 
 
@@ -32,38 +32,38 @@
 
 ### My package manager
 
-<img src="https://cdn.svgporn.com/logos/npm-icon.svg" alt="npm" width="120" height="50" title="npm"><img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" width="120" height="50" title="Yarn">
+<img src="https://cdn.svgporn.com/logos/npm-icon.svg" alt="npm" width="120" height="30" title="npm"><img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" width="120" height="30" title="Yarn">
 
 <br> 
 
 ### My Library
 
-<img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJs" width="120" height="50" title="ThreeJs">
+<img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJs" width="120" height="30" title="ThreeJs">
 
 <br> 
 
 ### My object-relational database system (and query langage)
 
-<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="120" height="50" title="postgresql"><img src="https://cdn.svgporn.com/logos/sequelize.svg" alt="sequelize" width="120" height="50" title="sequelize"><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQl" width="120" height="50" title="GraphQl">
+<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="120" height="50" title="postgresql"><img src="https://cdn.svgporn.com/logos/sequelize.svg" alt="sequelize" width="120" height="50" title="sequelize"><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQl" width="120" height="30" title="GraphQl">
 
 <br> 
 
 ### My Headless CMS
 
-<img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white" alt="strapi" width="120" height="50" title="strapi">
+<img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white" alt="strapi" width="120" height="30" title="strapi">
 
 <br> 
 
 ### My container's manager 
 
 
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="DOCKER" width="120" height="50" title="DOCKER">
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="DOCKER" width="120" height="30" title="DOCKER">
 
 <br>
 
 ### My platform as a service (PaaS)
 
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="HEROKU" width="120" height="50" title="HEROKU">
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="HEROKU" width="120" height="30" title="HEROKU">
 
 
 <br> 
@@ -72,7 +72,7 @@
 
 <div style={justify-content: center;}>
 
-<img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="linux" width="50" height="50" margin-right="50" title="linux"><img src="https://cdn.svgporn.com/logos/ubuntu.svg" alt="ubuntu" width="50"  height="50" padding="5" title="ubuntu"><img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode" width="50" height="50" padding="5" title="vscode"><img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" width="50" height="50" padding="5" title="git"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" width="120" height="50" padding="5" title="windows">
+<img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="linux" width="50" height="50" margin-right="50" title="linux" padding-right='5'><img src="https://cdn.svgporn.com/logos/ubuntu.svg" alt="ubuntu" width="50"  height="50" padding="5" title="ubuntu" padding-right='5'><img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode" width="50" height="50" padding="5" title="vscode" padding-right='5'><img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" width="50" height="50" padding="5" title="git" padding-right='5'><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" width="120" height="30" padding="5" title="windows">
   
 </div>
  
@@ -80,7 +80,7 @@
 
 ### My linters 🔝
 
-<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint" width="120" height="50" title="eslint"><img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" width="120" height="50" title="prettier">
+<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint" width="120" height="30" title="eslint"><img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" width="120" height="30" title="prettier">
 
 <br>
 
