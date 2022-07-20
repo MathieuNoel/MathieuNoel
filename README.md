@@ -86,7 +86,7 @@
 
 ### My current projects 🔧  
 
-<a href=https://github.com/MathieuNoel/> ![in lurning with O'clock](https://img.shields.io/badge/no1_atm-%230077B5.svg?style=for-the-badge) </a>  
+<a href=https://github.com/MathieuNoel/> ![in lurning with O'clock](https://img.shields.io/badge/in lurning with O'clock-%230077B5.svg?style=for-the-badge) </a>  
 
 ### My favorit gaming's plateforms 🎮
 
