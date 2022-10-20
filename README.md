@@ -1,6 +1,6 @@
 <h1 align=center> <span>Mathieu NOEL <br> 🇫🇷 </span></h1>
 
-<h3 align=center>  Developer junior ⚙️  </h3>
+<h3 align=center>  Developer web fullstack js ⚙️  </h3>
 
 
 <div align=center> 
