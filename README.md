@@ -38,8 +38,7 @@
 
 ### My Library
 
-<img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJs" width="120" height="30" title="ThreeJs">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ThreeJs" width="120" height="30" title="REACT">
+<img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJs" width="120" height="30" title="ThreeJs"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ThreeJs" width="120" height="30" title="REACT">
 
 <br> 
 
