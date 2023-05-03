@@ -26,7 +26,7 @@
 
 ###  My Runtime 
 
-<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="120" height="50" title="nodejs">
+<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="120" height="50" title="nodejs"><img src="https://img.shields.io/static/v1??label=healthinesses&message=wampserver&color=pink" alt="wampserver" width="120" height="50" title="wampserver">
 
 <br> 
 
