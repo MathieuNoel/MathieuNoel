@@ -10,7 +10,7 @@
 </div>
   
 
-## Learning in progress 🎓
+## volunteer in NELIXAIR 👨‍💻
 
 ### My programmation langage
 
