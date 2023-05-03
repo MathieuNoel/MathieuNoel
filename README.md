@@ -14,7 +14,7 @@
 
 ### My programmation langage
 
-<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="js" width="50" height="50" title="js"><img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html" width="50" height="50" title="html"><img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css" width="50" height="50" title="css"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" width="120" height="30" title="Markdown"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhRuEb6cCtyNk7Vv43pFbJlBL8pBC3IPrsvA&usqp=CAU" alt="RexEx" width="120" height="30" title="RexEx">
+<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="js" width="50" height="50" title="js"><img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html" width="50" height="50" title="html"><img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css" width="50" height="50" title="css"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" width="120" height="30" title="Markdown"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhRuEb6cCtyNk7Vv43pFbJlBL8pBC3IPrsvA&usqp=CAU" alt="RexEx" width="120" height="30" title="RegEx"><img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhRuEb6cCtyNk7Vv43pFbJlBL8pBC3IPrsvA&usqp=CAU](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)" alt="PHP" width="120" height="30" title="PHP">
 
 <br> 
 
@@ -26,7 +26,7 @@
 
 ###  My Runtime 
 
-<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="120" height="50" title="nodejs"><img src="https://img.shields.io/static/v1??label=healthinesses&message=wampserver&color=pink" alt="wampserver" width="120" height="50" title="wampserver">
+<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="120" height="50" title="nodejs"><img src="https://img.shields.io/php-runtime/v1?label=healthinesses&message=wampserver&color=pink" alt="wampserver" width="120" height="50" title="wampserver">
 
 <br> 
 
@@ -106,4 +106,12 @@
 
 </div>
 
+<br>
+
+### My stats
+<div>
+  
+  <img src="[https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white](https://github-readme-stats.vercel.app/api/top-langs/?username={MathieuNoel}&theme=blue-green)" alt="stats" width="100" height="30" margin-right="50" title="stats">
+  
+</div>
 <br>
