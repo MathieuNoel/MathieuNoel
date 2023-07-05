@@ -86,7 +86,7 @@
 
 ### My current projects 🔧  
 
-<a href=https://www.helloasso.com/associations/nelixair/> ![volunteer in NELIXAIR](https://img.shields.io/badge/in_lurning_with_O'clock-%230077B5.svg?style=for-the-badge) </a>  
+<a href=https://resume-mathieu-noel.com/> ![Personal resume inline](https://img.shields.io/badge/in_lurning_with_O'clock-%230077B5.svg?style=for-the-badge) </a>  
 
 ### My favorit gaming's plateforms 🎮
 
