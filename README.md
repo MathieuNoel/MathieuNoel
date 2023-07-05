@@ -86,7 +86,7 @@
 
 ### My current projects 🔧  
 
-<a href=https://resume-mathieu-noel.com/>Personal resume inline</a>  
+<a target="_plank" href=https://resume-mathieu-noel.com/>Personal resume inline</a>  
 
 ### My favorit gaming's plateforms 🎮
 
