@@ -10,7 +10,7 @@
 </div>
   
 
-## volunteer in NELIXAIR 👨‍💻
+## Data analyste ✨
 
 ### My programmation langage
 
