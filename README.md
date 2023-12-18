@@ -1,6 +1,6 @@
 <h1 align=center> <span>Mathieu NOEL <br> 🇫🇷 </span></h1>
 
-<h3 align=center> Data analyste ✨ </h3>
+<h3 align=center> Data analyst ✨ </h3>
 
 
 <div align=center> 
